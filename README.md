@@ -4,6 +4,27 @@ Repositorio con los **enunciados de las pruebas prácticas** del módulo **Impla
 
 ---
 
+## 📮 Instrucciones de Entrega para Alumnos
+
+Cada alumno/a debe entregar la solución a sus ejercicios realizando un **Fork** de este repositorio y configurándolo adecuadamente para la revisión del profesor:
+
+1. **Crear un Fork privado del repositorio**:
+   - Haz clic en el botón **Fork** (arriba a la derecha en GitHub) para crear una copia de este repositorio en tu cuenta.
+   - Para que **únicamente el profesor pueda ver tu entrega**, configura la visibilidad de tu repositorio como **Privado** (o añade acceso exclusivo) e invita al profesor (`AdibGuardiola`) como colaborador privado desde `Settings > Collaborators > Add people`.
+
+2. **Datos obligatorios que debes incluir en la entrega**:
+   En la cabecera del `README.md` de tu fork (o en el mensaje de la entrega), cada alumno debe incluir obligatoriamente los siguientes datos identificativos:
+   - 👤 **Nombre completo:** [Nombre y Apellidos del alumno]
+   - 📅 **Curso:** 2026 / 2027
+   - 🎓 **Nivel:** 1.º ASIR (Administración de Sistemas Informáticos en Red)
+   - 📚 **Asignatura:** Implantación de Sistemas Operativos (IDP)
+   - 📝 **Ejercicio:** [Especificar si es 1º, 2º, 3º o 4º Ejercicio Práctico]
+
+3. **Subida del documento PDF**:
+   - Sube a tu repositorio el PDF con la resolución del ejercicio respetando la nomenclatura exigida (ej. `Prueba_practica_UT01_Nombre_Apellido1_Apellido2.pdf`).
+
+---
+
 ## 📋 Índice de Ejercicios Prácticos
 
 - [1º Ejercicio Práctico - UT 01: Virtualización e instalación de sistemas operativos](./1º_Ejercicio_UT01.md)
